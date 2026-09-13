@@ -3,6 +3,9 @@ display-backlight-relay
 
 A Venus OS 'plugin' to control the backlight of a HDMI display using one of the relays of a Victron GX device.
 
+![Video](doc/screen_on_off.mov)
+
+
 *Disclaimer*
 
 This plugin comes without any guarantees or warranties. Use it at your own risk. I only tested it on my hardware setup using a Cerbo GX.

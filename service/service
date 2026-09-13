@@ -1,0 +1,2 @@
+# create a symlink with the name 'service' pointing /data/display-backlight-relay/service
+# ln -s /data/display-backlight-relay/service service

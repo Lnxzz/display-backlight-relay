@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "*** starting display-backlight-relay ***"
+exec 2>&1
+cd /data/display-backlight-relay
+bash /data/display-backlight-relay/display-backlight-relay.sh

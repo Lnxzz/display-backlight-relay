@@ -3,9 +3,6 @@ display-backlight-relay
 
 A Venus OS 'plugin' to control the backlight of a HDMI display using one of the relays of a Victron GX device.
 
-![Video](https://github.com/Lnxzz/display-backlight-relay/raw/refs/heads/main/doc/screen_on_off.mov)
-
-
 *Disclaimer*
 
 This plugin comes without any guarantees or warranties. Use it at your own risk. I only tested it on my hardware setup using a Cerbo GX.
@@ -21,6 +18,9 @@ For reference, in Gui V2 [this is triggered](https://github.com/victronenergy/gu
 
 My specific HDMI display (WaveShare 7" 1024x600) has no software backlight control, it does however have a hardware switch the control the backlight. 
 By connecting the first or second relay of a Cerbi GX device to the backlight switch of your HDMI display we get the possibility to control the backlight of the screen.
+
+![Video](https://github.com/Lnxzz/display-backlight-relay/raw/refs/heads/main/doc/screen_on_off.mov)
+
 
 ## Installation
 

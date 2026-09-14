@@ -19,7 +19,7 @@ For reference, in Gui V2 [this is triggered](https://github.com/victronenergy/gu
 My specific HDMI display (WaveShare 7" 1024x600) has no software backlight control, it does however have a hardware switch the control the backlight. 
 By connecting the first or second relay of a Cerbi GX device to the backlight switch of your HDMI display we get the possibility to control the backlight of the screen.
 
-![Video](https://github.com/Lnxzz/display-backlight-relay/raw/refs/heads/main/doc/screen_on_off.mov)
+![Screen on/off animation](https://github.com/Lnxzz/display-backlight-relay/raw/refs/heads/main/doc/screen_on_off.gif)
 
 
 ## Installation
